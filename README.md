@@ -12,6 +12,8 @@ The analysis focuses on customer behavior based on:
 
 The objective is to identify high-risk customer segments and provide actionable business recommendations to reduce customer churn.
 
+<img src="images/telco.jpg" width="700">
+
 ---
 
 ## 🎯 Business Problem
