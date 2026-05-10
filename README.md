@@ -157,17 +157,6 @@ Customers using Online Security and Tech Support services demonstrate lower chur
 
 ---
 
-## 📸 Sample Visualizations
-(Add screenshots of your charts here)
-
-Suggested screenshots:
-- Churn Distribution
-- Contract Type vs Churn
-- Monthly Charges vs Churn
-- Correlation Heatmap
-
----
-
 ## 🚀 Business Impact
 This analysis helps telecom companies:
 - Identify high-risk customers
