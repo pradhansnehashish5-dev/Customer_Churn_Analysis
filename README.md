@@ -56,7 +56,7 @@ The dataset contains customer demographics, subscription details, billing inform
 
 ### 1. What is the overall customer churn distribution?
 
-<img src="images/Customer_Churn_Distribustion.png" width="700">
+<img src="Customer_churn/Customer_Churn_Distribustion.png" width="700">
 
 ### 2. How does contract type influence customer churn?
 
