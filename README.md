@@ -66,17 +66,64 @@ The analysis shows that approximately 26.6% of customers churned, while 73.4% we
 
 ### 2. How does contract type influence customer churn?
 
+<img src="images/contract_vs_churn.png" width="700">
+
+#### Insight
+Customers with month-to-month contracts exhibit significantly higher churn rates compared to long-term contract customers.
+
+---
+
 ### 3. Do monthly charges impact customer churn behavior?
+
+<img src="images/monthly_charges_vs_churn.png" width="700">
+
+#### Insight
+Customers with higher monthly charges are more likely to churn.
+
+---
 
 ### 4. Does customer tenure affect churn probability?
 
+<img src="images/tenure_vs_churn.png" width="700">
+
+#### Insight
+Customers with lower tenure show higher churn probability.
+
+---
+
 ### 5. Which internet service category experiences the highest churn?
+
+<img src="images/internet_service_churn.png" width="700">
+
+#### Insight
+Fiber optic users experience higher churn compared to DSL users.
+
+---
 
 ### 6. Which telecom support services are associated with customer retention and churn?
 
+<img src="images/support_services_churn.png" width="700">
+
+#### Insight
+Customers using Tech Support and Online Security services show lower churn behavior.
+
+---
+
 ### 7. Are senior citizens more likely to churn compared to other customers?
 
+<img src="images/senior_citizen_churn.png" width="700">
+
+#### Insight
+Senior citizens demonstrate relatively higher churn rates compared to non-senior customers.
+
+---
+
 ### 8. Which numerical variables show correlation patterns within the dataset?
+
+<img src="images/heatmap.png" width="700">
+
+#### Insight
+Correlation analysis highlights relationships between tenure, monthly charges, and churn-related variables.
 
 ---
 
