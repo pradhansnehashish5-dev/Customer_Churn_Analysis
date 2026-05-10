@@ -1,25 +1,27 @@
 # 📊 Telecom Customer Churn Analysis using Python
 
-This project analyzes telecom customer churn data to identify patterns and factors affecting customer retention.
+## 📌 Project Overview
+This project analyzes telecom customer churn data to identify patterns and factors influencing customer retention.
 
-The analysis explores customer behavior based on:
+The analysis focuses on customer behavior based on:
 - Contract type
-- Tenure
 - Monthly charges
+- Customer tenure
 - Internet services
 - Support-related services
 
-The objective is to discover high-risk customer groups and provide actionable business recommendations to reduce churn.
+The objective is to identify high-risk customer segments and provide actionable business recommendations to reduce customer churn.
 
 ---
 
 ## 🎯 Business Problem
-Customer churn is a major challenge for telecom companies because losing customers directly impacts revenue.
+Customer churn is a major challenge for telecom companies because losing customers directly impacts revenue and long-term business growth.
 
-The goal of this project is to:
-- Identify patterns behind customer churn
-- Discover high-risk customer segments
-- Provide business recommendations to improve retention
+This project aims to:
+- Analyze customer churn behavior
+- Discover factors contributing to customer loss
+- Identify high-risk customer groups
+- Provide data-driven business recommendations for customer retention
 
 ---
 
@@ -45,35 +47,77 @@ The goal of this project is to:
 
 ## 📂 Dataset
 IBM Telco Customer Churn Dataset from Kaggle
-Dataset includes customer demographics, subscription details, billing information, and churn status.
+
+The dataset contains customer demographics, subscription details, billing information, and churn status.
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Business Questions Analyzed
 
-### 1. Contract Type Impacts Churn
-Customers with month-to-month contracts show the highest churn rate.
+### 1. What is the overall customer churn distribution?
 
-### 2. High Monthly Charges Increase Churn
-Customers paying higher monthly charges are more likely to leave.
+### 2. How does contract type influence customer churn?
 
-### 3. New Customers Are More Likely to Churn
-Customers with lower tenure have higher churn probability.
+### 3. Do monthly charges impact customer churn behavior?
 
-### 4. Fiber Optic Users Show Higher Churn
-Fiber optic internet customers churn more compared to DSL users.
+### 4. Does customer tenure affect churn probability?
 
-### 5. Support Services Improve Retention
-Customers using Online Security and Tech Support services are less likely to churn.
+### 5. Which internet service category experiences the highest churn?
+
+### 6. Which telecom support services are associated with customer retention and churn?
+
+### 7. Are senior citizens more likely to churn compared to other customers?
+
+### 8. Which numerical variables show correlation patterns within the dataset?
+
+---
+
+## 📈 Key Insights
+
+### 1. Contract Type Strongly Influences Churn
+Customers with month-to-month contracts exhibit significantly higher churn behavior, indicating lower customer commitment and retention stability.
+
+### 2. Higher Monthly Charges Increase Churn Risk
+Customers paying higher monthly charges are more likely to leave, suggesting pricing sensitivity among telecom users.
+
+### 3. Low-Tenure Customers Churn More Frequently
+New customers with lower tenure show higher churn probability, highlighting the importance of customer onboarding and early engagement.
+
+### 4. Fiber Optic Users Show Elevated Churn
+Customers using fiber optic internet services experience higher churn compared to DSL users.
+
+### 5. Support Services Improve Customer Retention
+Customers using Online Security and Tech Support services demonstrate lower churn rates and improved retention behavior.
 
 ---
 
 ## 📈 Business Recommendations
-- Promote long-term contracts through discounts
+- Promote long-term contracts through discounts and loyalty benefits
 - Improve onboarding experience for new customers
-- Enhance customer support services
-- Investigate issues affecting Fiber Optic users
-- Create retention strategies for high-risk customers
+- Strengthen customer support services
+- Investigate issues affecting fiber optic customers
+- Develop targeted retention strategies for high-risk customer groups
+
+---
+
+## 📸 Sample Visualizations
+(Add screenshots of your charts here)
+
+Suggested screenshots:
+- Churn Distribution
+- Contract Type vs Churn
+- Monthly Charges vs Churn
+- Correlation Heatmap
+
+---
+
+## 🚀 Business Impact
+This analysis helps telecom companies:
+- Identify high-risk customers
+- Improve customer retention strategies
+- Reduce revenue loss caused by churn
+- Enhance customer satisfaction
+- Support data-driven business decisions
 
 ---
 
