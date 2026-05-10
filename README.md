@@ -1,9 +1,15 @@
-# 📊 Customer Churn Analysis
+# 📊 Telecom Customer Churn Analysis using Python
 
-## 📌 Project Overview
-This project analyzes telecom customer churn data to identify the major factors influencing customer retention and churn behavior.
+This project analyzes telecom customer churn data to identify patterns and factors affecting customer retention.
 
-The analysis focuses on customer contracts, tenure, monthly charges, internet services, and support-related services.
+The analysis explores customer behavior based on:
+- Contract type
+- Tenure
+- Monthly charges
+- Internet services
+- Support-related services
+
+The objective is to discover high-risk customer groups and provide actionable business recommendations to reduce churn.
 
 ---
 
@@ -26,8 +32,20 @@ The goal of this project is to:
 
 ---
 
+## 💡 Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insight Generation
+- Customer Segmentation
+- Correlation Analysis
+- Data Storytelling
+
+---
+
 ## 📂 Dataset
-Telco Customer Churn Dataset
+IBM Telco Customer Churn Dataset from Kaggle
+Dataset includes customer demographics, subscription details, billing information, and churn status.
 
 ---
 
